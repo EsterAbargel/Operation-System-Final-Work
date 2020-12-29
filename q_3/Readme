@@ -1,0 +1,13 @@
+There is only one file set_policy.c, to compile it run: make
+To run it, you have to provide two arguments: scheduler type and priority
+The scheduler type is a number
+You have to run the binary with "sudo"
+An example:
+sudo ./set_policy 2 15
+2 is for SCHED_RR
+15 is the priority
+Now to check that the changes were applied we open another Terminal and use chrt
+The binary set_policy when we run it, it will print its pid
+so we can run chrt -p <pid_of_set_policy_binary> to see that the changes indeed were applied
+
+

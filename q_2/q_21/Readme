@@ -1,0 +1,5 @@
+We have only one file named check_pid.c, to compile it run: make
+It will output a binary named check_pid
+
+To run it: ./check_pid <pid>
+It will check if the process of the given pid exists or not and print message as requested in the question. You can run "ps -ef" to see list of existed processes.

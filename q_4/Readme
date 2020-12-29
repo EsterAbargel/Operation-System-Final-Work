@@ -1,0 +1,6 @@
+There is only one source file named dir_traversal.c, to compile it run: make
+It will output a binary named dir_traversal
+I prepared a directory the same like that used in the question's example: dir
+To run the binary: ./dir_traversal dir
+It will traverse the directory and print same output of the question's example (but not the same order)
+
