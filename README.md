@@ -1,5 +1,5 @@
 # Operation-System-Final-Work
-Following the corona, instead of a exam we were asked to do a project
+Following the Corona, instead of a exam we were asked to do a project
 
  
 עבודת מסכמת : מערכות הפעלה 2020, סמסטר ב
